@@ -169,8 +169,6 @@ public:
 
 int main()
 {
-    //int num_of_outlets;
-    //CoffeeMachine coffee_machine;
 
     cout << "Welcome To your favorite Dunzo Coffee Machine." << endl;
      /*** TEST CASE ***/
@@ -182,9 +180,16 @@ int main()
     testcase.test5();
 
     /***/
+
     /***
     User choice input, it should be used when we don't want to run the test case automatically
+    Above test case should be commented to use below code.
     ***/
+//    int num_of_outlets;
+//    CoffeeMachine coffee_machine;
+//    Test testcase;
+//    cout << "Welcome To your favorite Dunzo Coffee Machine." << endl;
+
 //    cout << "Let me know how many outlets you want in machine:";
 //    cin>>num_of_outlets;
 
@@ -254,6 +259,8 @@ int main()
 //        }
 //
 //    }
+
+/*** uncomment above code to use it as per choice ***/
     cout<<"***************************************"<<endl;
     cout<<"*Thanks for using our Coffee Machine!!*"<<endl;
     cout<<"***************************************"<<endl;
