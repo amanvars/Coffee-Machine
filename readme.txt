@@ -1,0 +1,1 @@
+To run this project simply go to "bin/Release" and run CoffeeMachine.exe to execute the program.

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1599334199 source:c:\amanfiles\coffeemachine\coffeemachinehelper.cpp
+	<bits/stdc++.h>
+	"coffeemachinehelper.h"
+
+1599328784 c:\amanfiles\coffeemachine\coffeemachinehelper.h
+	<bits/stdc++.h>
+
+1599331102 source:c:\amanfiles\coffeemachine\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<coffeemachinehelper.h>
+
+1599328784 c:\amanfiles\coffeemachine\\coffeemachinehelper.h
+	<bits/stdc++.h>
+
